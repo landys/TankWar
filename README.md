@@ -1,6 +1,6 @@
 # TankWar
 
-It's a 16-bit desktop game written in C including some ASM codes directly invoking BIOS interrupt and accessing video buffer. It's my C Course project of the first year undergraduate, when I had just learned pragramming for less than 1 year. Actually at that time I could not distinguash between compile and link, and so I compiled all codes into one object. Funny. :)
+It's a 16-bit desktop game written in C including some ASM codes directly invoking BIOS interrupt and accessing video buffer. It's my C Course project of the first year undergraduate, when I had just learned pragramming for less than 1 year on June 2004. Actually at that time I could not distinguash between compile and link, and so I compiled all codes into one object. Funny. :)
 
 ## How to compile and Run the game
 
